@@ -1,0 +1,10 @@
+ProductsController
+Get Products
+Add a procduct
+Get one Product
+Rate Product
+Filter Products
+
+UserController
+signup- Emial, name, password, typeOfCustomer (cutomer, seller)
+signin - email, password
