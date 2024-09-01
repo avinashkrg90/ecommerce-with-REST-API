@@ -91,3 +91,4 @@
 {"level":"info","message":"/api/products/ - {}"}
 {"level":"info","message":"/api/products/rate?productID=6660a9aa8c14a8dca137e350&rating=5 - {}"}
 {"level":"info","message":"/api/products/ - {}"}
+{"level":"info","message":"/api/users/signup - {\"name\":\"anamika\",\"email\":\"anamika@gmail.com\",\"password\":\"111\",\"type\":\"seller\"}"}
